@@ -5,6 +5,9 @@ Väinö Loitokari / e2402235
 Tony Thesslund / 2101348
 
 ## 1. What is Agile software development, and why was it developed? Discuss the main problems in traditional software development that Agile attempts to address.
+A way of developing software flexibly, iteratively and incrementally. 
+
+It was developed to allow for changing requirements.
 
 
 ## 2. What are the four core values of the Agile Manifesto? Explain each value in your own words and give a practical example of how it could be applied in a software project.
