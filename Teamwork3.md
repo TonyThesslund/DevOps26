@@ -1,5 +1,6 @@
 # Teamwork III (DevOps, Best Practices, Tools)
 ## Team members
+Väinö Loitokari / e2402235
 Tony Thesslund / e2101348
 
 ## 1. What is the main purpose of DevOps?
