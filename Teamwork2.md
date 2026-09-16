@@ -63,24 +63,22 @@ Team: a cross-functional group who do the actual analysis, design, implementatio
 
 
 ## 10. What are Scrum artifacts and events? Explain how the Product Backlog, Sprint Backlog, Increment, Sprint, Daily Scrum, Sprint Review, and Sprint Retrospective contribute to a project.
-Artifacts:
-Product Backlog: A prioritized list of all the features, bug fixes, and improvements that need to be made to the product.
-
-Sprint Backlog: A subset of the product backlog that the team commits to completing during a sprint.
-
-Increment: The sum of all completed backlog items during a sprint, representing the current state of the product.
+Artifacts: 
+- Product Backlog: A prioritized list of all the features, bug fixes, and improvements that need to be made to the product.
+- Sprint Backlog: A subset of the product backlog that the team commits to completing during a sprint.
+- Increment: The sum of all completed backlog items during a sprint, representing the current state of the product.
 
 Events:
-All meetings related to the scrum. Planning, daily and review retrospective.
+- All meetings related to the scrum. Planning, daily, review and retrospective.
 
 
 ## 11. Imagine that your team is developing a mobile application using Scrum. Design one Sprint for the project, including the Sprint Goal, some Product Backlog items, Sprint activities, and expected Increment.
 Increment and Sprint goal: At the end of the sprint, the team has the repository and development environment set up.
 
 Events:
-Sprint planning.
-Daily.
-Sprint review and retrospective.
+- Sprint planning.
+- Daily.
+- Sprint review and retrospective.
 
 Backlog item examples:
 1.	Set up project repo
