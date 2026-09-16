@@ -44,7 +44,9 @@ In Agile we can make a lot of changes through the project. Agile allows changing
 ## 7. Compare Scrum, Extreme Programming (XP), and Feature-Driven Development (FDD). What are the main characteristics of each model, and when would you choose one over the others?
 Developing by Feature: Features are small, client-valued functions that take around two weeks or less to complete. The system is developed by building a series of these features.
 
-XP: Developers work in pairs, with one writing the code while the other reviews it in real-time. This practice improves code quality and facilitates knowledge sharing. Test-Driven Development (TDD): Tests are written before the actual code. This ensures that the code meets the requirements and helps catch bugs early.
+XP: Developers work in pairs, with one writing the code while the other reviews it in real-time. This practice improves code quality and facilitates knowledge sharing. 
+
+Test-Driven Development (TDD): Tests are written before the actual code. This ensures that the code meets the requirements and helps catch bugs early.
 
 Scrum: Roles are product owner, scrum master and development team. Daily meeting where team members discuss what they did yesterday, what they plan to do today, and any blockers they are facing. 
 
