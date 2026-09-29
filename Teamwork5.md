@@ -13,14 +13,45 @@ Start by identifying the main stakeholders and potential users of the applicatio
 
 Develop a set of requirements for the application as a whole. The requirements should describe what the application must do and the qualities it must have. Consider, for example:
 
-- Functional requirements: what functions and services must the application provide?
-- Performance requirements: how quickly and efficiently should the application operate?
-- Usability requirements: how easy should the application be to learn and use?
-- Reliability and availability: how reliable should the application be, and how should it behave in case of failures?
-- Security: what data and operations need to be protected?
-- Maintainability: how easy should the application be to maintain, modify, and extend?
-- Compatibility and integration: what other systems, platforms, or services should the application interact with?
-- Constraints: are there standards, legislation, organisational requirements, or technical limitations that need to be considered?
+### Functional requirements
+*What functions and services must the application provide?*
+
+Answer
+
+### Performance requirement
+*How quickly and efficiently should the application operate?*
+
+Answer
+
+### Usability requirements
+*How easy should the application be to learn and use?*
+
+Answer
+
+### Reliability and availability
+*How reliable should the application be, and how should it behave in case of failures?*
+
+Answer
+
+### Security
+*What data and operations need to be protected?*
+
+Answer
+
+### Maintainability
+*How easy should the application be to maintain, modify, and extend?*
+
+Answer
+
+### Compatibility and integration
+*What other systems, platforms, or services should the application interact with?*
+
+Answer
+
+### Constraints
+*Are there standards, legislation, organisational requirements, or technical limitations that need to be considered?*
+
+Answer
 
 ## 3. Partition the application into logical subsystems
 Divide the application into logical subsystems or major components. The decomposition should make it easier to understand the responsibilities of each part of the system and how the parts interact.
